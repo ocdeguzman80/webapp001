@@ -1,0 +1,16 @@
+{
+  "name": "html5responsive001",
+  "version": "1.0.0",
+  "description": "Example of a responsive website",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ohm",
+  "license": "ISC",
+  "homepage": "https://ocdeguzman80.github.io/webapp001"
+}
