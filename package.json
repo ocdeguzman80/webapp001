@@ -11,6 +11,5 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Ohm",
-  "license": "ISC",
-  "homepage": "https://ocdeguzman80.github.io/webapp001"
+  "license": "ISC"
 }
